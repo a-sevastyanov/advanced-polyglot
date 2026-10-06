@@ -67,8 +67,11 @@ cpp/      TASKS.md — практика по месяцам; template/ — за�
 ## Часть 2. C++
 
 **База:** [learncpp.com](https://www.learncpp.com/) читается целиком, по порядку, с упражнениями, Тимофей Хирьянов (МФТИ) — [Курс молодого бойца МФТИ (Яызк Си)](https://youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U&si=MLOYTucAgd248esR), [Основы С++ — хендбук от Яндекса](https://contest.yandex.ru/tracks/cpp/).
+
 **Лекции:** Константин Владимиров (МФТИ) — [*Базовый курс C++, MIPT, 2021-2022*](https://youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&si=57niQ13vLX9WQCtD), Илья Мещерин (МФТИ) — [*Лекции C++ продвинутый поток ФПМИ 2023-24*](https://youtube.com/playlist?list=PLmSYEYYGhnBviRYhIDty-CSTDS16a3whl&si=fEVK5NQ5HlifnPg6); CppCon — *Back to Basics* (плейлисты по годам).
+
 **Справочник:** [cppreference](https://en.cppreference.com/).
+
 **Смотреть, во что компилируется код:** [Compiler Explorer](https://godbolt.org/), [C++ Insights](https://cppinsights.io/).
 
 | Месяц | Тема | Теория | Практика |
